@@ -1,32 +1,37 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Siddhant S. Singh
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 4th year UG at IIT Kanpur
 
 # Status emoji
 status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Indian Institute of Technology Kanpur (IITK)
+ url: https://www.iitk.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Natural Language Processing
+- Quantative Finance
+- Reinforcement Learning
+- Bayesian Statistics
+- Computer Vision
 
-#education:
-#  courses:
+education:
+ courses:
+ - course: B.S & M.S, Mathematics and Scientific Computing
+   institution: IIT Kanpur
+   year: 2025
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
@@ -44,17 +49,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+    mailto: siddhant7876@gmail.com # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
+    icon_pack: fas
+    link: https://www.linkedin.com/in/siddhant-singh-2002/
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/siddhant_7876/
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/siddhant7876
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +71,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Hey there, 
+I am Siddhant, currently a dual degree student at IIT Kanpur in the department of Mathematics and Scientific Computing.
+I have demonstrated experience in Statistical Natural Language Processing, Reinforcement Learning, Quantative Finance and statistical research through various projects and competitions that I have completed. I have also interned at Wells Fargo as a front-end developer.
+Apart from this, I am a big fan of football and cricket. I also love listening to music and playing guitar (Still Learning). Currently looking out for research opportunity in NLP and Quantative Finance. Hope to Connect with you!!
