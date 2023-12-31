@@ -9,8 +9,8 @@ superuser: true
 role: 4th year UG at IIT Kanpur
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Organizations/Affiliations
 organizations:
@@ -21,11 +21,11 @@ organizations:
 bio: My research interests include Ethical and Common Sense NLP, Reinforcement Learning, Quantative Finance, Bayesian Statistics and Computer Vision.
 
 interests:
-- Natural Language Processing
-- Quantative Finance
-- Reinforcement Learning
-- Bayesian Statistics
-- Computer Vision
+  - Natural Language Processing
+  - Quantative Finance
+  - Reinforcement Learning
+  - Bayesian Statistics
+  - Computer Vision
 
 education:
  courses:
@@ -71,7 +71,6 @@ social:
 #email: ""
 ---
 
-Hey there, 
 I am Siddhant, currently a dual degree student at IIT Kanpur in the department of Mathematics and Scientific Computing.
 I have demonstrated experience in Statistical Natural Language Processing, Reinforcement Learning, Quantative Finance and statistical research through various projects and competitions that I have completed. I have also interned at Wells Fargo as a front-end developer.
 Apart from this, I am a big fan of football and cricket. I also love listening to music and playing guitar (Still Learning). Currently looking out for research opportunity in NLP and Quantative Finance. Hope to Connect with you!!
