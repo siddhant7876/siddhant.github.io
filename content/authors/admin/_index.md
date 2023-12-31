@@ -51,7 +51,7 @@ social:
     icon_pack: fas
     mailto: siddhant7876@gmail.com # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.linkedin.com/in/siddhant-singh-2002/
   - icon: instagram
     icon_pack: fab
