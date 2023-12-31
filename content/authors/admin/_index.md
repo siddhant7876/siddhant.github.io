@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: Indian Institute of Technology Kanpur (IITK)
- url: https://www.iitk.ac.in/
+  - name: Indian Institute of Technology Kanpur (IITK)
+    url: https://www.iitk.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Ethical and Common Sense NLP, Reinforcement Learning, Quantative Finance, Bayesian Statistics and Computer Vision.
 
 interests:
 - Natural Language Processing
